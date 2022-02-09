@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Johnny-87
+- 👋 Hi, I’m @Johannes
 - 👀 I’m interested in datascience and data analysis
 - 🌱 I’m currently learning R and python
 - 💞️ I’m looking to collaborate on anything data related
